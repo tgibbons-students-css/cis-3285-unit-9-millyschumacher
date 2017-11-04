@@ -3,6 +3,7 @@ using System.IO;
 
 using SingleResponsibilityPrinciple.Contracts;
 
+//Amelia Schumacher
 namespace SingleResponsibilityPrinciple
 {
     public class StreamTradeDataProvider : ITradeDataProvider
